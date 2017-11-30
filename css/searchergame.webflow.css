@@ -1,0 +1,343 @@
+.body {
+  height: 100%;
+  background-color: #261736;
+  font-family: Gotham, sans-serif;
+  font-weight: 300;
+}
+
+.harrigan-studio {
+  position: relative;
+  z-index: 2;
+  background-color: #332b50;
+}
+
+.image {
+  margin: 12px;
+}
+
+.background {
+  position: absolute;
+  left: 0px;
+  top: 38px;
+  right: 0px;
+  bottom: 0px;
+  min-height: 700px;
+  clear: both;
+  background-image: url('../images/1.Background.png');
+  background-position: 50% 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.sun {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  clear: both;
+  background-image: url('../images/2.Sun.png');
+  background-position: 50% 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+.middleground-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  background-image: url('../images/3.Middleground_2.png');
+  background-position: 50% 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.middleground {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  background-image: url('../images/4.Middleground.png');
+  background-position: 50% 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.birds {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  background-image: url('../images/5.Birds.png');
+  background-position: 50% 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.foreground {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  background-image: url('../images/6.Foreground.png');
+  background-position: 50% 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+.main-content {
+  position: relative;
+  height: 100vh;
+  background-image: -webkit-linear-gradient(90deg, #261736, #261736 0%, rgba(38, 23, 54, 0) 52%);
+  background-image: linear-gradient(0deg, #261736, #261736 0%, rgba(38, 23, 54, 0) 52%);
+  text-align: center;
+}
+
+.logo {
+  margin-top: 200px;
+}
+
+.harrigan-studio-menu {
+  background-color: #332b50;
+  text-align: left;
+}
+
+.div-block {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+.button {
+  padding: 18px 44px;
+  border: 1px solid #fff;
+  border-radius: 32px;
+  background-color: transparent;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 2.25px;
+  text-transform: uppercase;
+}
+
+.text-block {
+  margin-top: 24px;
+  margin-bottom: 50px;
+  color: #fff;
+  font-weight: 500;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.image-2 {
+  margin-bottom: 50px;
+}
+
+.rest-of-the-page {
+  position: relative;
+  z-index: 2;
+  height: 100%;
+  padding-right: 20px;
+  padding-left: 20px;
+  background-color: #261736;
+  color: #c79abf;
+}
+
+.heading {
+  margin-bottom: 55px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
+
+.text-block-2 {
+  display: inline-block;
+  max-width: 660px;
+  margin-top: 80px;
+  margin-bottom: 50px;
+  font-size: 28px;
+  line-height: 40px;
+  font-weight: 500;
+  text-align: left;
+}
+
+.row {
+  display: block;
+}
+
+.description {
+  display: inline-block;
+  max-width: 300px;
+  margin-right: 20px;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: left;
+}
+
+.column {
+  text-align: right;
+}
+
+.description-2 {
+  max-width: 300px;
+  margin-left: 20px;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: left;
+}
+
+.column-2 {
+  text-align: left;
+}
+
+.image-3 {
+  margin: 50px;
+}
+
+.row-2 {
+  margin-top: 115px;
+}
+
+.quote {
+  display: inline-block;
+  max-width: 535px;
+  margin-top: 85px;
+  font-size: 32px;
+  line-height: 42px;
+  text-transform: uppercase;
+}
+
+.text-block-3 {
+  margin-top: 14px;
+  margin-bottom: 100px;
+  color: #75608e;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.text-block-4 {
+  text-transform: uppercase;
+}
+
+.column-logo {
+  height: 74px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.image-4 {
+  margin-top: 8px;
+}
+
+.image-5 {
+  margin-top: 7px;
+}
+
+.row-3 {
+  display: block;
+  margin-bottom: 55px;
+}
+
+.logo-container {
+  display: block;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+.image-6 {
+  margin-top: 12px;
+  margin-bottom: 50px;
+}
+
+.filler-solid {
+  background-color: #261736;
+}
+
+@media (max-width: 991px) {
+  .main-content {
+    overflow: hidden;
+  }
+  .rest-of-the-page {
+    background-color: #261736;
+  }
+  .logo-container {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+}
+
+@media (max-width: 767px) {
+  .image {
+    width: 150px;
+  }
+  .parallax-main {
+    max-height: 100vh;
+  }
+  .main-content {
+    max-height: 300px;
+    min-height: 600px;
+    background-image: -webkit-linear-gradient(90deg, #261736, #261736 13%, rgba(38, 23, 54, 0) 63%);
+    background-image: linear-gradient(0deg, #261736, #261736 13%, rgba(38, 23, 54, 0) 63%);
+  }
+  .logo {
+    width: 200px;
+    margin-top: 50px;
+  }
+  .button {
+    font-size: 14px;
+  }
+  .text-block {
+    margin-right: 40px;
+    margin-left: 40px;
+    line-height: 24px;
+  }
+  .image-2 {
+    margin-bottom: 100px;
+  }
+  .rest-of-the-page {
+    position: relative;
+    background-color: #261736;
+  }
+  .text-block-2 {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  .description {
+    max-width: none;
+    margin-right: 0px;
+    margin-bottom: 20px;
+  }
+  .column {
+    text-align: left;
+  }
+  .description-2 {
+    max-width: none;
+    margin-left: 0px;
+  }
+  .image-3 {
+    margin-left: 0px;
+  }
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('../fonts/Gotham-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gotham';
+  src: url('../fonts/Gotham-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
