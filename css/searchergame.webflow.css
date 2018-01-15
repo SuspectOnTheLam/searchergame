@@ -249,7 +249,7 @@
 }
 
 .logo-container {
-  display: block;
+  display: none;
   margin-right: 200px;
   margin-left: 200px;
 }
